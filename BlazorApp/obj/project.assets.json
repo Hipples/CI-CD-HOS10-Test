@@ -82,11 +82,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saman\\Desktop\\CS 504 (software engineering)\\04. Hands on Skills\\cs504-spring2022-on-hos10-Hipples\\Module10\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "C:\\Users\\Saman\\Desktop\\CS 504 (software engineering)\\04. Hands on Skills\\CI-CD-HOS10-Test\\BlazorApp\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "C:\\Users\\Saman\\Desktop\\CS 504 (software engineering)\\04. Hands on Skills\\cs504-spring2022-on-hos10-Hipples\\Module10\\BlazorApp\\BlazorApp.csproj",
+      "projectPath": "C:\\Users\\Saman\\Desktop\\CS 504 (software engineering)\\04. Hands on Skills\\CI-CD-HOS10-Test\\BlazorApp\\BlazorApp.csproj",
       "packagesPath": "C:\\Users\\Saman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saman\\Desktop\\CS 504 (software engineering)\\04. Hands on Skills\\cs504-spring2022-on-hos10-Hipples\\Module10\\BlazorApp\\obj\\",
+      "outputPath": "C:\\Users\\Saman\\Desktop\\CS 504 (software engineering)\\04. Hands on Skills\\CI-CD-HOS10-Test\\BlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saman\\AppData\\Roaming\\NuGet\\NuGet.Config",

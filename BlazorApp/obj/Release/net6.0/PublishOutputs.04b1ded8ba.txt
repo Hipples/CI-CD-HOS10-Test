@@ -1,0 +1,12 @@
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\BlazorApp.exe
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\BlazorApp.dll
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\BlazorApp.deps.json
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\BlazorApp.runtimeconfig.json
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\BlazorApp.pdb
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\System.Data.SQLite.dll
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Saman\Desktop\CS 504 (software engineering)\04. Hands on Skills\CI-CD-HOS10-Test\BlazorApp\bin\Release\net6.0\publish\runtimes\win-x86\native\SQLite.Interop.dll
