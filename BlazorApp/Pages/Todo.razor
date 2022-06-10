@@ -1,0 +1,35 @@
+﻿@* add url for this page *@
+@page "/todo" 
+
+@* page title *@
+<h3>Todo</h3> 
+
+@* provides a count of undone todo list items *@
+<p>Number of todo items: @todos.Count(todo => !todo.IsDone)</p> 
+
+<ul> @* unordered list element *@
+    @foreach (var todo in todos) @* for each item in the to do list *@
+    {
+        <li>@todo.Title</li> @* list item element, Title = newTodo *@
+    }
+</ul>
+
+@* placeholder keyword displays default text in input textbox, keyword @bind connects user input to a newTodo string *@
+<input placeholder = "Something todo" @bind="newTodo"/>
+@* event handler @onclick calls AddTodo() function 'Add todo' when user input is entered in the textbox and the button is clicked *@
+<button @onclick = "AddTodo">Add todo</button>
+
+@code 
+{
+    @* IList represents a collection of objects that can be individually accessed by index *@
+    private IList<TodoItem> todos = new List<TodoItem>(); @* creates a TodoItem class object to contain the todo list items *@
+    private string? newTodo; @* declares variable used to bind user input to code *@
+    private void AddTodo() @* private function to bind to event handler @onclick *@
+    {   @* if the input string is not null or just white space, pass string as newTodo *@
+        if (!string.IsNullOrWhiteSpace(newTodo)) 
+        { @* add newTodo input to todos ilist and assign as the 'Title' variable *@
+            todos.Add(new TodoItem { Title = newTodo } );
+            newTodo = string.Empty; @* reset newTodo string to empty *@
+        }
+    }
+}
